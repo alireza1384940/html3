@@ -1,0 +1,39 @@
+body{
+    background-color: silver;
+    padding: 20px;
+    text-align: center;
+}
+.headercontent{
+    max-width: 1000px;
+    margin: auto;
+}
+h1{
+    font-size: 70px;
+    margin-bottom: 20px;
+}
+p{
+    font-size: 20px;
+    margin: 25px;
+}
+h2{
+    font-size: 30px;
+    font-weight: bold;
+}
+ img{
+    width: 30%;
+    height: 350px;
+    border-radius: 10%;
+}
+video{
+    width: 70%;
+    height: 500px;
+}
+.btn{
+    display: inline-block;
+    padding: 20px 30px;
+    background-color: white;
+    color: black;
+    margin-bottom: 70px;
+    text-decoration: none;
+    border-radius: 10px;
+}
